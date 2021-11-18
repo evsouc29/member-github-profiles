@@ -1,4 +1,4 @@
-# list of github profiles
+# List of github profiles
 Add your profile below. 
 
 ## NAME | USERNAME
