@@ -1,2 +1,3 @@
-# member-github-profiles
-Github profiles for pembers of NMD 211 Fall 2021
+# Member Github Profiles
+This repository will contain
+- a list a link to the github profile of each member of NMD 211
